@@ -52,4 +52,4 @@ sudo ./atualizar-glpi-iac.sh
 ---
 
 Feito com 💻 por Ismael – Analista de Suporte
-```
+
