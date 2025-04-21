@@ -53,5 +53,3 @@ sudo ./atualizar-glpi-iac.sh
 
 Feito com 💻 por Ismael – Analista de Suporte
 ```
-
-Se quiser, posso ajustar esse README com base no nome do script ou outro detalhe que quiser incluir.
