@@ -32,10 +32,6 @@ O comando:
 ./console database:update -y
 ```
 
-- Executa a verificação e atualização automática do banco.
-- A flag `-y` confirma todos os prompts, tornando o processo não-interativo.
-- Deve ser executado com o Apache parado para evitar conflitos.
-
 ## ⚠️ Avisos
 
 - Faça backup e snapshot em caso de VM.
